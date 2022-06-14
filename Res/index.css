@@ -1,0 +1,79 @@
+/* ruals for the hole page */
+* {
+    box-sizing: border-box;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: consolas,monaco,monospace;
+    font-weight: bolder;
+}
+
+/*ruals for logo's images*/
+img {
+    height:70px;
+    width: auto
+}
+
+/*ruals for logo's images */
+.win {
+    height: fit-content;
+    width: fit-content;
+}
+
+
+/* sub heddings color*/
+h2, h2 a {
+    color: rgb(255, 215, 0);
+}
+
+/* main background image*/
+body{
+    background-image: url("/Users/waynewill/Documents/code/Projects/The UEFA Champions League Winners Project/Res/images/Background/UEFA-Champions-League-Stadium.jpeg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/*  background image for clubs*/
+.img {
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+/*Real Madrid background image*/
+#real {
+background-image: url("/Users/waynewill/Documents/code/Projects/The UEFA Champions League Winners Project/Res/images/Background/real-madrid-stadium.png");
+}
+/*AC Milan background image*/
+#milan {
+    background-image: url("/Users/waynewill/Documents/code/Projects/The UEFA Champions League Winners Project/Res/images/Background/AC Milan stadium.jpeg");
+}
+/*liverpool background image*/
+#liverpool {
+    background-image: url("/Users/waynewill/Documents/code/Projects/The UEFA Champions League Winners Project/Res/images/Background/liverpool stadium.jpeg");
+}
+/*Bayern Munich background image*/
+#bayern {
+    background-image: url("/Users/waynewill/Documents/code/Projects/The UEFA Champions League Winners Project/Res/images/Background/bayern munich stadium.jpeg");
+}
+/*Barcelona background image*/
+#basa {
+    background-image: url("/Users/waynewill/Documents/code/Projects/The UEFA Champions League Winners Project/Res/images/Background/Barcelona stadium.webp");
+}
+/*Ajax background image*/
+#ajax {
+    background-image: url("/Users/waynewill/Documents/code/Projects/The UEFA Champions League Winners Project/Res/images/Background/Ajax stadium.jpeg");
+}
+/*Man U background image*/
+#united {
+    background-image: url("/Users/waynewill/Documents/code/Projects/The UEFA Champions League Winners Project/Res/images/Background/Man. United stadium.jpeg");
+}
+/*Inter Milan background image*/
+#inter {
+    background-image: url("/Users/waynewill/Documents/code/Projects/The UEFA Champions League Winners Project/Res/images/Background/Inter-Milan stadium.webp");
+}
+/*2 times and 1 time chaps list*/
+ul li {
+    display: inline-block;
+}
