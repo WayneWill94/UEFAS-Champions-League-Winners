@@ -27,7 +27,7 @@ h2, h2 a {
 
 /* main background image*/
 body{
-    background-image: url("Res/images/Background/UEFA-Champions-League-Stadium.jpeg");
+    background-image: url("images/Background/UEFA-Champions-League-Stadium.jpeg");
     background-repeat:no-repeat;
     background-attachment: fixed;
     background-size: cover;
