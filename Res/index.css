@@ -43,35 +43,35 @@ body{
 
 /*Real Madrid background image*/
 #real {
-background-image: url("Res/images/Background/real-madrid-stadium.png");
+background-image: url("images/Background/real-madrid-stadium.png");
 }
 /*AC Milan background image*/
 #milan {
-    background-image: url("Res/images/Background/AC Milan stadium.jpeg");
+    background-image: url("images/Background/AC Milan stadium.jpeg");
 }
 /*liverpool background image*/
 #liverpool {
-    background-image: url("Res/images/Background/liverpool stadium.jpeg");
+    background-image: url("images/Background/liverpool stadium.jpeg");
 }
 /*Bayern Munich background image*/
 #bayern {
-    background-image: url("Res/images/Background/bayern munich stadium.jpeg");
+    background-image: url("images/Background/bayern munich stadium.jpeg");
 }
 /*Barcelona background image*/
 #basa {
-    background-image: url("Res/images/Background/Barcelona stadium.webp");
+    background-image: url("images/Background/Barcelona stadium.webp");
 }
 /*Ajax background image*/
 #ajax {
-    background-image: url("Res/images/Background/Ajax stadium.jpeg");
+    background-image: url("images/Background/Ajax stadium.jpeg");
 }
 /*Man U background image*/
 #united {
-    background-image: url("Res/images/Background/Man. United stadium.jpeg");
+    background-image: url("images/Background/Man. United stadium.jpeg");
 }
 /*Inter Milan background image*/
 #inter {
-    background-image: url("Res/images/Background/Inter-Milan stadium.webp");
+    background-image: url("images/Background/Inter-Milan stadium.webp");
 }
 /*2 times and 1 time chaps list*/
 ul li {
